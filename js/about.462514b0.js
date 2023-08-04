@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkpractica_consolidacion7"]=self["webpackChunkpractica_consolidacion7"]||[]).push([[443],{98:function(n,c,t){t.r(c),t.d(c,{default:function(){return e}});var a=function(){var n=this;n._self._c;return n._m(0)},i=[function(){var n=this,c=n._self._c;return c("div",{staticClass:"about"},[c("h1",[n._v("This is an about page")])])}],s=t(1),u={},r=(0,s.Z)(u,a,i,!1,null,"9fb9668c",null),e=r.exports}}]);
+//# sourceMappingURL=about.462514b0.js.map
